@@ -44,3 +44,10 @@ Conflict : Xung dot
 
 # lay du dan tu github ve may
 - git clone {dia chi} : lay du an tu github ve may
+- git push : co the push thang ve github
+
+# day branch len github
+- git push -u origin dev
+# merge branch
+- git fetch origin
+- git checkout -b staging origin/staging
