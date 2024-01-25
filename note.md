@@ -36,3 +36,11 @@ Conflict : Xung dot
 - git merge {branch name} : tong hop lai cac commit
 
 - git branch -d {branch name} : xoa 1 branch
+
+# day du an len github
+- git push {dia chi} {branch name} : day du an len github
+- git remote add origin {dia chi} : o day co the hieu la origin la ten dia chi do, co the duoc su dung cho viec push nhanh hon
+- git push origin {branch name}
+
+# lay du dan tu github ve may
+- git clone {dia chi} : lay du an tu github ve may
