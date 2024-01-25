@@ -6,6 +6,8 @@ git config -g user.name
 # Terms
 
 Reponsitory (Repo) : thu muc , du an
+Branch : mot cai cay se co nhieu canh`
+Conflict : Xung dot
 
 # Commands
 
@@ -24,4 +26,13 @@ Reponsitory (Repo) : thu muc , du an
 - git log : xem lai nhung thoi diem da luu
 - git log --oneline
 
--  
+- git checkout {branch name} : tro lai lan commit cua id do
+- git checkout master  
+
+- git branch
+
+- git checkout -b {branch name} : tao branch name 
+
+- git merge {branch name} : tong hop lai cac commit
+
+- git branch -d {branch name} : xoa 1 branch
