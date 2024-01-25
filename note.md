@@ -42,5 +42,9 @@ Conflict : Xung dot
 - git remote add origin {dia chi} : o day co the hieu la origin la ten dia chi do, co the duoc su dung cho viec push nhanh hon
 - git push origin {branch name}
 
-# lay du dan tu github ve may
+# lay du an tu github ve may
 - git clone {dia chi} : lay du an tu github ve may
+- git push : co the push thang ve github
+
+# day branch len github
+- git push -u origin dev
